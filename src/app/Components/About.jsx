@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import img2 from "public/about2.png (1).webp";
+import img2 from "public/about2.png.webp";
 
 function About() {
   return (
